@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 a:link,
 a:visited {
   color: #4c51bf;
