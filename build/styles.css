@@ -533,6 +533,14 @@ video {
   border-color: rgba(229, 231, 235, var(--tw-border-opacity));
 }
 
+.absolute {
+  position: absolute;
+}
+
+.m-4 {
+  margin: 1rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -541,6 +549,10 @@ video {
 .my-4 {
   margin-top: 1rem;
   margin-bottom: 1rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
 }
 
 .mb-8 {
@@ -625,6 +637,10 @@ video {
   }
 }
 
+.list-disc {
+  list-style-type: disc;
+}
+
 .gap-4 {
   gap: 1rem;
 }
@@ -657,6 +673,10 @@ video {
 
 .uppercase {
   text-transform: uppercase;
+}
+
+.italic {
+  font-style: italic;
 }
 
 *, ::before, ::after {
